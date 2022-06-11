@@ -1,0 +1,1 @@
+import{_ as e,d as a,u as s,o as t,c as n,C as r}from"./index.247dd296.js";var d=e(a({name:"Service",components:{},setup(){s({title:`${r.base.WEB_NAME}服务`,htmlAttrs:{lang:"en",amp:!0}})}}),[["render",function(e,a,s,r,d,i){return t(),n("div",null,"service")}]]);export{d as default};
