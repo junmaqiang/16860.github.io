@@ -1,1 +1,0 @@
-import{_ as e,d as a,u as n,C as s,o as t,c as d}from"./index.247dd296.js";var r=e(a({name:"Index",components:{},setup:()=>(n({title:`${s.base.WEB_NAME}官网`,htmlAttrs:{lang:"en",amp:!0}}),{TITLE:s.WEB_NAME})}),[["render",function(e,a,n,s,r,o){return t(),d("div",null,"index")}]]);export{r as default};
