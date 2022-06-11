@@ -1,1 +1,0 @@
-import{_ as t,d as a,u as n,o as e,c as s,C as o}from"./index.4830fb2c.js";var r=t(a({name:"Contact",components:{},setup(){n({title:`联系${o.base.WEB_NAME}`,htmlAttrs:{lang:"en",amp:!0}})}}),[["render",function(t,a,n,o,r,c){return e(),s("div",null,"contact")}]]);export{r as default};
