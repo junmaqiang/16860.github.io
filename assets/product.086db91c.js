@@ -1,1 +1,0 @@
-import{_ as t,d as a,u as e,o as s,c as n,C as r}from"./index.d1bc0674.js";var o=t(a({name:"Product",components:{},setup(){e({title:`${r.base.WEB_NAME}产品`,htmlAttrs:{lang:"en",amp:!0}})}}),[["render",function(t,a,e,r,o,d){return s(),n("div",null,"product")}]]);export{o as default};
